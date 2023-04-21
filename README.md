@@ -1,5 +1,7 @@
+[![MasterHead](https://media1.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e47j8lbdpl4oogsnsouv3y1dvhxut7a7xrzaeqa0d02&rid=giphy.gif&ct=g)]
 <h1 align="center">Hi 👋, I'm Arin Gujarati</h1>
 <h3 align="center">DevOps | AWS | Cloud | Unity Game Developer | Python | C#</h3>
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aringujarati&label=Profile%20views&color=0e75b6&style=flat" alt="aringujarati" /> </p>
 
