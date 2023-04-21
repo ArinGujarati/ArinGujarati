@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm Arin Gujarati</h1>
 <h3 align="center">DevOps | AWS | Cloud | Unity Game Developer | Python | C#</h3>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aringujarati&label=Profile%20views&color=0e75b6&style=flat" alt="aringujarati" /> </p>
 
@@ -12,7 +11,7 @@
 
 - 👨‍💻 All of my projects are available at [https://aringujarati.netlify.app/portfolio.html](https://aringujarati.netlify.app/portfolio.html)
 
-- 📝 I regularly write articles on [https://aringujarati.netlify.app/blog.html](https://aringujarati.netlify.app/blog.html)
+- 📝 I regularly write articles on [https://www.linkedin.com/build-relation/newsletter-follow?entityUrn=7049617175694704640](https://www.linkedin.com/build-relation/newsletter-follow?entityUrn=7049617175694704640)
 
 - 💬 Ask me about **https://aringujarati.netlify.app/about.html**
 
