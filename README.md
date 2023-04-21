@@ -11,7 +11,7 @@
 
 - 👨‍💻 All of my projects are available at [https://aringujarati.netlify.app/portfolio.html](https://aringujarati.netlify.app/portfolio.html)
 
-- 📝 I regularly write articles on [https://aringujarati.netlify.app/blog.html , https://www.linkedin.com/build-relation/newsletter-follow?entityUrn=7049617175694704640](https://aringujarati.netlify.app/blog.html , https://www.linkedin.com/build-relation/newsletter-follow?entityUrn=7049617175694704640)
+- 📝 I regularly write articles on [https://www.linkedin.com/build-relation/newsletter-follow?entityUrn=7049617175694704640](https://www.linkedin.com/build-relation/newsletter-follow?entityUrn=7049617175694704640)
 
 - 💬 Ask me about **https://aringujarati.netlify.app/about.html**
 
