@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Arin Gujarati</h1>
-<h3 align="center">DevOps | AWS | Cloud | Unity Game Developer | Python | C#</h3>
+<h3 align="center">Game Developer | AR | VR | XR| Metaverse | Python | Sockets C# | Artificial Intelligence | AWS | Cloud</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aringujarati&label=Profile%20views&color=0e75b6&style=flat" alt="aringujarati" /> </p>
 
