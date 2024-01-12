@@ -5,9 +5,9 @@
 
 <p align="left"> <a href="https://twitter.com/aringujarati" target="blank"><img src="https://img.shields.io/twitter/follow/aringujarati?logo=twitter&style=for-the-badge" alt="aringujarati" /></a> </p>
 
-- 🔭 I’m currently working on **DevOps Projects**
+- 🔭 I’m currently working on **Coin Master Projects**
 
-- 🌱 I’m currently learning **DevOps | AWS | Cloud**
+- 🌱 I’m currently learning **Data Science**
 
 - 👨‍💻 All of my projects are available at [https://aringujarati.netlify.app/portfolio.html](https://aringujarati.netlify.app/portfolio.html)
 
