@@ -1,12 +1,12 @@
 <h1 align="center">Hi 👋, I'm Arin Gujarati</h1>
 <h3 align="center">Data Scientist | Machine Learning Engineer.</h3>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=aringujarati&label=Profile%20views&color=0e75b6&style=flat" alt="aringujarati" /> </p>
-
 
 # 💫 About Me:
 I'm Arin Gujarati a data scientist passionate about transforming data into actionable insights. I specialize in machine learning algorithms and statistical analysis, with expertise in Python, SQL, and C#. I excel in driving informed decision-making and optimizing processes by leveraging data-driven approaches. Let's collaborate and harness the power of data for innovation and business success!
 
+
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=aringujarati&label=Profile%20views&color=0e75b6&style=flat" alt="aringujarati" /> </p>
 
 <p align="left"> <a href="https://twitter.com/aringujarati" target="blank"><img src="https://img.shields.io/twitter/follow/aringujarati?logo=twitter&style=for-the-badge" alt="aringujarati" /></a> </p>
 
